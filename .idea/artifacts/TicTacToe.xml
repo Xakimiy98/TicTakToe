@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TicTacToe">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicTacToe</output-path>
+    <root id="archive" name="TicTacToe.jar">
+      <element id="module-output" name="TicTacToe" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../X_and_O/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
